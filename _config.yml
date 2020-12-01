@@ -14,7 +14,7 @@ country: China
 phone: 15926219478
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings
