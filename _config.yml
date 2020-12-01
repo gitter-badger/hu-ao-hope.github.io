@@ -1,1 +1,36 @@
-theme: jekyll-theme-time-machine
+# site settings
+title: Blog
+subtitle: Huao-Blog
+email: 3047401843@qq.com
+description: 站在巨人的肩上改变世界
+baseurl: "/Huao-Blog" # the subpath of your site, e.g. /blog
+url: 'Huao-Blog' # the base hostname & protocol for your site
+author:
+#street_address: 1234 Somewhere Road
+city: WuHan
+#state: TN
+#zip_code: 55555
+country: China
+phone: 15926219478
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
